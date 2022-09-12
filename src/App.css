@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200;400;600;700;800&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Changa', sans-serif;
+  line-height: 1.6rem;
+
+
+}
+
+:root {
+
+  --color-primary: #005275;
+  --color-content: #000;
+  --color-heading: #000;
+  --color-secondary: #02753b;
+  
+  
+  --color-golden: #DCCA87;
+  --color-black: #0C0C0C;
+  --color-gray: #545454;
+  --color-crimson: #F5EFDB;
+  --color-grey: #AAAAAA;
+  --color-white: #FFFFFF;
+}
