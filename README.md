@@ -4,9 +4,9 @@ Live: [Sec Live](https://sec-one-page.netlify.app)
 
 
 <div >
-<img width="33%" src="https://user-images.githubusercontent.com/75527964/190259397-1dcc8821-34ba-48de-8d5b-67406dcd7c8e.png" />
-<img width="33%" src="https://user-images.githubusercontent.com/75527964/190259424-14afa5df-7673-42c0-80fe-f97b2828253f.png" />
-<img width="33%" src="https://user-images.githubusercontent.com/75527964/190259434-f16d3252-9e36-42d2-ac80-253f201005e1.png" />
+<img width="32%" src="https://user-images.githubusercontent.com/75527964/190259397-1dcc8821-34ba-48de-8d5b-67406dcd7c8e.png" />
+<img width="32%" src="https://user-images.githubusercontent.com/75527964/190259424-14afa5df-7673-42c0-80fe-f97b2828253f.png" />
+<img width="32%" src="https://user-images.githubusercontent.com/75527964/190259434-f16d3252-9e36-42d2-ac80-253f201005e1.png" />
 
 </div>
 
